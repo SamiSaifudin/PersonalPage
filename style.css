@@ -75,6 +75,7 @@ body {
 
 }
 
+/*HOME*/
 
 .home{
     display: flex;
@@ -147,6 +148,8 @@ body {
     box-shadow: none;
 }
 
+/*ABOUT*/
+
 .about{
     display: flex;
     justify-content: center;
@@ -175,6 +178,8 @@ body {
     font-size: 1.3rem;
     margin: 2rem 0 3rem; 
 }
+
+/*PROJECTS*/
 
 .projects{
     background-color: var(--main-color);
@@ -258,6 +263,8 @@ body {
     color: var(--second-bg-color);
 }
 
+/*CONTACT*/
+
 .contact h2{
     margin-bottom: 3rem;
 }
@@ -304,6 +311,8 @@ body {
     box-shadow: none;
 }
 
+/*SKILLS*/
+
 .skills{
     margin-bottom: 5rem;
 }
@@ -330,6 +339,8 @@ body {
 .skills-box ul {
     padding-top: 2rem;
 }
+
+/*FOOTER*/
 
 .footer{
     display: flex;
