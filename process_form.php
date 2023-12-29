@@ -5,7 +5,7 @@
         $message = $_POST["message"];
 
         // Build the email message
-        $to = "sami.h.saifudin@gmail.com"; // Replace with your actual email address
+        $to = ""; // Replace with your actual email address
         $subject = $emailSubject;
         $headers = "From: $email\r\n";
         $headers .= "Reply-To: $email\r\n";
