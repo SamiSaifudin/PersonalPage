@@ -311,6 +311,9 @@ body {
     box-shadow: none;
 }
 
+.stop-spam{
+    display: none;
+}
 /*SKILLS*/
 
 .skills{
